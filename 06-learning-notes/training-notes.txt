@@ -1,0 +1,30 @@
+Training notes
+
+Covered the new workflow, practiced the main steps, and listed a few questions for the next session.
+
+
+Session focus
+The session introduced the new workflow from intake through review. The main objective was to understand the order of operations and recognize which information belongs in each stage.
+
+Process practiced
+1. Receive the request and identify the intended outcome.
+2. Gather the relevant source material before making changes.
+3. Record the item in the appropriate project location.
+4. Review the result for completeness and clear naming.
+5. Mark the item for follow-up if a decision or response is still needed.
+
+Key observations
+The workflow is easiest to follow when each item has a clear owner and next action. Short descriptions are useful during intake because they preserve context without delaying the work. The review step should happen immediately after completion, while the details are still familiar.
+
+
+Practice results
+The exercises showed that incomplete requests are easier to resolve when the missing information is written as a specific question. The group also practiced distinguishing an item that is ready for filing from one that still requires a decision. This reduced duplicate work and made handoffs clearer.
+
+Questions for next session
+- Which cases should be escalated instead of handled through the standard workflow?
+- Where should temporary working notes live before they are filed?
+- What naming convention will make older items easiest to find?
+- How often should completed items be reviewed for outdated information?
+
+Next steps
+Repeat the workflow with two realistic examples, compare the results, and update the checklist if the same point of confusion appears more than once. Bring one example of a successful handoff and one example where the process felt unnecessarily slow.

@@ -1,0 +1,26 @@
+Project idea
+
+A lightweight neighborhood resource map with shared updates, helpful links, and volunteer opportunities.
+
+
+Purpose
+The project would help residents find practical local information without requiring them to search through scattered social posts, outdated websites, or long message threads. A visitor could open the map, browse resources by category, and quickly see what is available nearby.
+
+Core features
+- A map and searchable list of community resources.
+- Categories for food, health, transport, learning, events, and mutual aid.
+- Short descriptions with opening times, contact details, and source links.
+- A clear way to suggest a new resource or report an outdated entry.
+- A lightweight review queue for checking changes before publication.
+
+The first release should stay intentionally small. It could begin with one neighborhood and a curated collection of entries. This would make it easier to test the language, navigation, and maintenance process before inviting a wider audience.
+
+
+Possible user experience
+Someone looking for a community pantry could select the food category, filter by distance, and open an entry with directions and visiting details. A volunteer could submit a new listing through a short form. A moderator could then confirm the source, publish the listing, and set a reminder to check it later.
+
+Implementation notes
+The map should work well on a phone and should not depend on a high-speed connection. Data could begin in a simple structured file or small database, with an upgrade path if usage grows. Each entry should include a last-reviewed date so users can judge how current it is.
+
+Success measures
+The pilot would be successful if residents can find a relevant resource in under two minutes, contributors understand how to submit updates, and moderators can review changes without a complicated workflow. Future versions might add multilingual labels, saved resources, partner dashboards, and public data exports.

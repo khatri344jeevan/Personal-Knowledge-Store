@@ -1,0 +1,26 @@
+Meeting notes
+
+Discussed priorities for the next sprint, reviewed open questions, and assigned follow-up actions.
+
+
+Agenda
+- Confirm the most important deliverables for the next sprint.
+- Review progress on the neighborhood resource map prototype.
+- Identify decisions that need input from the wider group.
+- Assign owners and target dates for follow-up work.
+
+Discussion
+The team agreed that the first sprint should focus on a small, dependable release rather than a large set of unfinished features. The initial version should allow people to add a resource, browse nearby entries, and report information that is outdated. Search and notifications can remain out of scope until the basic workflow has been tested.
+
+Open questions include how entries will be moderated, whether contributors need accounts, and which information should be visible to everyone. The group also noted that accessibility and mobile layout need to be considered during the first design pass, not added at the end.
+
+
+Decisions and action items
+1. Create a simple map and list view for the first prototype. Owner: Design team.
+2. Draft a short contribution policy covering accuracy, privacy, and respectful use. Owner: Community team.
+3. Collect ten sample resources from different neighborhoods. Owner: Research team.
+4. Test the prototype with three people who are unfamiliar with the project. Owner: Product team.
+5. Schedule a progress review for the end of the sprint. Owner: Project coordinator.
+
+Risks
+The largest risk is spending too much time designing features before learning whether people will contribute accurate information. Another risk is collecting personal details that are not needed for the service. The next review should check both assumptions and use the prototype feedback to narrow the next set of priorities.
